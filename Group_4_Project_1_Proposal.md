@@ -2,10 +2,8 @@
 Authors: Ngo Sy Trung & Doan Quang Hung
 
 ## 1. Dataset Description
-We will analyze three datasets about US National Parks:
-* **parks.csv**: 423 National Park areas with location, size, and type
-* **species.csv**: 119,248 species records with taxonomy and conservation status
-* **park_species.csv**: Links between parks and species
+We will analyze dataset from US National Parks:
+* **most_visited_nps_species_data.csv**: 119,248 species records with taxonomy and conservation status from 15 most visited national park
 
 ## 2. Reason for Selection
 This dataset:
@@ -15,18 +13,18 @@ This dataset:
 * Supports analysis of environmental protection efforts
 
 ## 3. Research Questions
-**Q1: How does species richness vary across different national parks?**
-* We'll determine if park size, location, elevation, or ecosystem type affects biodiversity.
+**Q1: Does the species data from 15 most visited parks reflect the pyramid of number/biomass (Food chain pyramid)?**
+* We'll determine if number of individual species observed reflect the food chain pyramid.
 
 **Q2: What proportion of species are endangered, threatened, or of special concern?**
 * We'll examine if rare species proportions relate to park type or geographic location.
 
 ## 4. Analysis Plan
-**For Q1: Species Diversity Analysis**
+**For Q1: Food chain Analysis**
 * **Data Steps:**
-   * Merge species and park data
-   * Calculate biodiversity metrics per park
-   * Extract environmental variables
+   * Get species number of observable individuals
+   * Match species category to food chain level
+   * Graph scatter for analization
 * **Analysis:**
    * Correlate park size with species counts
    * Map geographic biodiversity patterns
