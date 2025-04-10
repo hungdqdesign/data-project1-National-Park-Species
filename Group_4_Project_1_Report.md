@@ -61,7 +61,7 @@ To analyze the proportion of species with vulnerable conservation status, we cre
 
 ### Analysis
 
-Code for Question 2 analysis: [Group_4_Question_1_Jupyter_notebook](https://github.com/hungdqdesign/data-project1-National-Park-Species/blob/main/data_n_code/Project1_Question_2.ipynb)
+Code for Question 2 analysis: [Group_4_Question_2_Jupyter_notebook](https://github.com/hungdqdesign/data-project1-National-Park-Species/blob/main/data_n_code/Project1_Question_2.ipynb)
 
 ### Discussion
 
