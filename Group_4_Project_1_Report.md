@@ -28,7 +28,7 @@ Additionally, we use a bar chart to display the top 10 most common species names
 
 ### Analysis
 
-Code and analysis files: [GitHub Repository](https://github.com/hungdqdesign/data-project1-National-Park-Species)
+Code for Question 1 analysis: [Group_4_Question_1_Jupyter_notebook](https://github.com/hungdqdesign/data-project1-National-Park-Species/blob/main/data_n_code/Project1_Question_1.ipynb)
 
 ### Discussion
 
@@ -61,11 +61,7 @@ To analyze the proportion of species with vulnerable conservation status, we cre
 
 ### Analysis
 
-GitHub: [https://github.com/hungdqdesign/data-project1-National-Park-Species](https://github.com/hungdqdesign/data-project1-National-Park-Species)
-
-### Python Code for Question 1
-
-_See code in GitHub repository linked above._
+Code for Question 2 analysis: [Group_4_Question_1_Jupyter_notebook](https://github.com/hungdqdesign/data-project1-National-Park-Species/blob/main/data_n_code/Project1_Question_2.ipynb)
 
 ### Discussion
 
