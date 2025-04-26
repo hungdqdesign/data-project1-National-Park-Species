@@ -7,6 +7,7 @@ Group 4 Project 1 repository is organized as follow
 
 * **/data_n_code/: Group 4 dataset and code**
    * /data_n_code/most_visited_nps_species_data_tidy.csv: Group 4 dataset in CSV format
+   * /data_n_code/README_dataset.md: Metadata about the dataset
    * /data_n_code/Group_4_Project_1_Code.ipynb: Code for Project 1
    * /data_n_code/National Park (PowerBI).pbix: Power BI file to generate graph with same function as in Jupyter Notebook code
 * **Group_4_Project_1_Report.pdf: Group 4 project write-up**
